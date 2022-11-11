@@ -30,7 +30,7 @@
 
 Результат работы в формате [.pka](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba_3/Balalaeva_CPT.pka)
 
-Описание работы в формате [.pdf](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba_3/Balalaeva_CPT.pdf)
+Описание работы в формате [.pdf](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba3_cisco/Balalaeva_CPT.pdf)
 
 ## ☑Экзаменационный билет №17
 https://github.com/stankin/inet-2022/wiki/exam17
