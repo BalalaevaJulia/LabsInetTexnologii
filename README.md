@@ -28,7 +28,7 @@
 3. Настройка статических маршрутов;
 4. Анализ пакета в режиме симуляции.
 
-Результат работы в формате [.pka](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba_3/Balalaeva_CPT.pka)
+Результат работы в формате [.pka](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba3_cisco/Balalaeva_CPT.pka)
 
 Описание работы в формате [.pdf](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba3_cisco/Balalaeva_CPT.pdf)
 
