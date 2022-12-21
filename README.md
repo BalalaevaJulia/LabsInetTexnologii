@@ -34,4 +34,4 @@
 Описание работы в формате [.pdf](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba3_cisco/Balalaeva_CPT.pdf)
 
 ## ☑Экзаменационный билет №17
-С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam17) (вклад в реферат).
+С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam17) ([вклад](https://github.com/stankin/inet-2022/wiki/exam17/_compare/fcb7582a8820a081b9ebdc922665c20d71fbf2c4...9277ee6513ad51e35ace4cb165cdf0f2367fb6b7) в реферат).
