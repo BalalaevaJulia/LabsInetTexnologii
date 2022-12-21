@@ -2,7 +2,7 @@
 ## ☑Лабораторная работа № 1. Экосистема разработки программ с открытым кодом
 Цель работы - создание персональной страницы-отчета на GitHub и работа с git.
 
-![]([https://pc.ru/wp-content/uploads/2021/01/Data_Model_OSI.jpg](https://www.xelent.ru/upload/medialibrary/690/model_osi_2_1.jpg)
+![](https://it.rfei.ru/static/realms/rfei_it/courses/GZqN/3.8.png)
 
 В рамках достижения данной цели было необходимо выполнить следующие задачи:
 1. зарегистрироваться на GitHub;
