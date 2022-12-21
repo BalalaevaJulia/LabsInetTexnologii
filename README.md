@@ -9,8 +9,6 @@
 4. написать реферат по двум вопросам из 17 билета. 
 
 [Веб-страничка с описанием лабораторных работ](https://balalaevajulia.github.io/LabsInetTexnologii/)
-
-С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam17) (вклад в реферат).
 ## ☑Лабораторная работа № 2. Разработка приложения
 Цель работы - проектирование и разработка коллективного приложения.
 
@@ -36,4 +34,4 @@
 Описание работы в формате [.pdf](https://github.com/BalalaevaJulia/LabsInetTexnologii/blob/main/laba3_cisco/Balalaeva_CPT.pdf)
 
 ## ☑Экзаменационный билет №17
-https://github.com/stankin/inet-2022/wiki/exam17
+С рефератом можно ознакомиться перейдя по [ссылке](https://github.com/stankin/inet-2022/wiki/exam17) (вклад в реферат).
