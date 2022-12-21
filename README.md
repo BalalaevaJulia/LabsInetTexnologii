@@ -16,10 +16,10 @@
 
 В рамках достижения данной цели были выполнены следующие шаги:
 1. была сформирована команда и распределены роли в проекте:
-  * [Григорян Артур](https://salemnight1.github.io/) (Системное программирование)
-  * [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
-  * [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
-  * [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
+    * [Григорян Артур](https://salemnight1.github.io/) (Системное программирование)
+    * [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
+    * [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
+    * [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 3. было выбрано название команды - The Legendary Four;
 4. было спроектировано и разработано приложение "Список дел", ознакомиться с которым можно на целевой странице (репозиторий).
 ## ☑Лабораторная работа № 3
